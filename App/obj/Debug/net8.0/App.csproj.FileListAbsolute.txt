@@ -158,3 +158,4 @@ C:\Users\Windwos 11\Desktop\BioProj\App\bin\Debug\net8.0\Microsoft.AspNetCore.Cr
 C:\Users\Windwos 11\Desktop\BioProj\App\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\Windwos 11\Desktop\BioProj\App\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Windwos 11\Desktop\BioProj\App\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Windwos 11\Desktop\BioProj\App\obj\Debug\net8.0\App.sourcelink.json
