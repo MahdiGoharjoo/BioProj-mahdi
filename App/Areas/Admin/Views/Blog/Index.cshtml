@@ -1,0 +1,78 @@
+@model List<Core.DTOs.Blog_Dto>
+<section class="content">
+    <div class="body_scroll">
+        <div class="block-header">
+            <div class="row">
+                <div class="col-lg-7 col-md-6 col-sm-12">
+                    <h2>وبلاگ</h2>
+                </div>
+
+                <div class="container-fluid">
+
+                    <!-- Exportable Table -->
+                    <div class="row clearfix">
+                        <div class="col-lg-12">
+                            <div class="card">
+                                <div class="header">
+                                    <h1>@ViewBag.msg</h1>
+                                </div>
+                                <div class="body">
+                                    <div class="table-responsive">
+                                        <table class="table table-bordered table-striped table-hover dataTable js-exportable">
+                                            <thead>
+                                                <tr>
+                                                    <th>تاریخ</th>
+                                                    <th>عنوان مقاله</th>
+                                                    <th>متن مقاله </th>
+                                                    <th>تصویر</th>
+                                                    <th>عملیات ها</th>
+                                                </tr>
+                                            </thead>
+                                            <tfoot>
+                                                <tr>
+                                                    <th>تاریخ</th>
+                                                    <th>عنوان مقاله</th>
+                                                    <th>متن مقاله </th>
+                                                    <th>تصویر</th>
+                                                    <th>عملیات ها</th>
+                                                </tr>
+                                            </tfoot>
+                                            <tbody>
+                                                @foreach (var item in Model)
+                                                {
+                                                    <tr>
+                                                       
+                                                        <td>
+                                                            @item.Date_Dto
+                                                        </td>
+                                                        <td>
+                                                            @item.Title_Dto
+                                                        </td>
+                                                        <td>
+                                                            @item.Description_Dto
+                                                        </td>
+                                                        <td>
+                                                            <img src="@item.Image_Dto">
+                                                        </td>
+                                                        <td>
+                                                            <a class="btn btn-danger"
+                                                               href="/admin/blog/delete/@item.Id_Dto">حذف</a>
+                                                            <a class="btn btn-info"
+                                                               href="/admin/blog/Update/@item.Id_Dto">ویرایش</a>
+                                                        </td>
+                                                    </tr>
+                                                }
+                                                <a class="btn btn-success"
+                                                               href="/admin/Blog/Add">افزودن</a>
+
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>

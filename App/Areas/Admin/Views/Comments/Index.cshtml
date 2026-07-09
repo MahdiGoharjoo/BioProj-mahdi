@@ -1,0 +1,86 @@
+@model List<Core.DTOs.Comments_Dto>
+<section class="content">
+    <div class="body_scroll">
+        <div class="block-header">
+            <div class="row">
+                <div class="col-lg-7 col-md-6 col-sm-12">
+                    <h2>رضایت مشتری</h2>
+                    <button class="btn btn-primary btn-icon mobile_menu" type="button"><i
+                        class="zmdi zmdi-sort-amount-desc"></i></button>
+                    </div>
+                    <div class="col-lg-5 col-md-6 col-sm-12">
+                        <button class="btn btn-primary btn-icon float-right right_icon_toggle_btn" type="button"><i
+                            class="zmdi zmdi-arrow-right"></i></button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container-fluid">
+
+                    <!-- Exportable Table -->
+                    <div class="row clearfix">
+                        <div class="col-lg-12">
+                            <div class="card">
+                                <div class="header">
+                                    <h1>@ViewBag.msg</h1>
+                                </div>
+                                <div class="body">
+                                    <div class="table-responsive">
+                                        <table class="table table-bordered table-striped table-hover dataTable js-exportable">
+                                            <thead>
+                                                <tr>
+                                                    <th>نام مشتری </th>
+                                                    <th>عنوان شغلی</th>
+                                                    <th>متن نظر </th>
+                                                    <th>تصویر</th>
+                                                    <th>عملیات ها</th>
+                                                </tr>
+                                            </thead>
+                                            <tfoot>
+                                                <tr>
+                                                    <th>نام مشتری </th>
+                                                    <th>عنوان شغلی</th>
+                                                    <th>متن نظر </th>
+                                                    <th>تصویر</th>
+                                                    <th>عملیات ها</th>
+                                                </tr>
+                                            </tfoot>
+                                            <tbody>
+                                                @foreach (var item in Model)
+                                                {
+                                                    <tr>
+                                                       
+                                                        <td>
+                                                            @item.CustommerName_Dto
+                                                        </td>
+                                                        <td>
+                                                            @item.CustommerRole_Dto
+                                                        </td>
+                                                        <td>
+                                                            @item.CommentDescription_Dto
+                                                        </td>
+                                                        <td>
+                                                            <img src="@item.Image_Dto">
+                                                        </td>
+                                                        <td>
+                                                            <a class="btn btn-danger"
+                                                               href="/admin/comments/delete/@item.Id_Dto">حذف</a>
+                                                            <a class="btn btn-info"
+                                                               href="/admin/comments/Update/@item.Id_Dto">ویرایش</a>
+                                                        </td>
+                                                    </tr>
+                                                }
+                                                <a class="btn btn-success"
+                                                               href="/admin/comments/Add">افزودن</a>
+
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
