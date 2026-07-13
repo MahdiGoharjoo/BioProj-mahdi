@@ -121,10 +121,10 @@
 						}
 
 					</div>
-					@foreach(var item in @ViewBag.Statics)
-						{
+					
 					<div class="elisc_tm_counter w-full float-right mb-[90px]">
-						
+						@foreach(var item in @ViewBag.Statics)
+						{
 						<ul class="ml-[-30px]">
 							<li class="mb-[30px] float-right w-1/3 pl-[30px]">
 								<div
@@ -133,8 +133,8 @@
 									<span class="font-medium font-karla uppercase">@item.Description_Dto</span>
 								</div>
 							</li>
-						</ul>
-					</div>}
+						</ul>}
+					</div>
 				</div>
 				<div class="elisc_tm_experience w-full float-right bg-[#F3F9FF] pt-[100px] pb-[70px] px-0">
 					<div class="tm_content w-full max-w-[1250px] h-auto clear-both my-0 mx-auto py-0 px-[20px]">
@@ -143,9 +143,10 @@
 								تجربیات</span>
 							<h3 class="text-[40px] font-extrabold">همه چیز درباره من!</h3>
 						</div>
-						@foreach(var item in @ViewBag.AllAboutMe){
+						
 						<div class="list w-full float-right mt-[40px]">
-							<ul class="ml-[-30px] flex flex-wrap">
+							@foreach(var item in @ViewBag.AllAboutMe)
+							{<ul class="ml-[-30px] flex flex-wrap">
 								<li class="mb-[40px] pl-[30px] float-right w-1/2">
 									<img class="popup_image" src="@item.Image_Dto" alt="">
 									<div
@@ -174,10 +175,10 @@
 
 									</div>
 								</li>
-							</ul>
+							</ul>}
 						</div>
 
-						}
+						
 					</div>
 				</div>
 			</div>
@@ -371,9 +372,6 @@
 									<div class="elisc_tm_button">
 										<button type="submit"  >ارسال</button>
 									</div>
-
-									<!-- If you want change mail address to yours, just open "modal" folder >> contact.php and go to line 4 and change detail to yours.  -->
-
 								</form>
 							</div>
 						</div>
