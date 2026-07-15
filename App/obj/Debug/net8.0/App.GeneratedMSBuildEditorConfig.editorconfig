@@ -9,187 +9,187 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = App
 build_property.RootNamespace = App
-build_property.ProjectDir = C:\Users\Windwos 11\Desktop\BioProj\App\
+build_property.ProjectDir = C:\Users\Tahmuresi\Desktop\BioProj\App\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Windwos 11\Desktop\BioProj\App
+build_property.MSBuildProjectDirectory = C:\Users\Tahmuresi\Desktop\BioProj\App
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/AboutMe/Index.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/AboutMe/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWJvdXRNZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/AllAboutMe/Add.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/AllAboutMe/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWxsQWJvdXRNZVxBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/AllAboutMe/Index.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/AllAboutMe/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWxsQWJvdXRNZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/AllAboutMe/Update.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/AllAboutMe/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWxsQWJvdXRNZVxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Blog/Add.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Blog/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Blog/Index.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Blog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Blog/Update.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Blog/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQmxvZ1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Comments/Add.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Comments/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbWVudHNcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Comments/Index.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Comments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Comments/Update.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Comments/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29tbWVudHNcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/ContactUsAdmin/Index.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/ContactUsAdmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdFVzQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/ContactUsClient/Index.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/ContactUsClient/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ29udGFjdFVzQ2xpZW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/First/Index.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/First/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcRmlyc3RcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Home/Index.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Home/Privacy.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Login/Login.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Serrvices/Add.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Serrvices/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VycnZpY2VzXEFkZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Serrvices/Index.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Serrvices/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VycnZpY2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Serrvices/Update.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Serrvices/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2VycnZpY2VzXFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Shared/Error.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Statics/Add.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Statics/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RhdGljc1xBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Statics/Index.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Statics/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RhdGljc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Statics/Update.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Statics/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU3RhdGljc1xVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/User/Add.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/User/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/User/Index.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/User/Update.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/User/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Private/Views/Home/Index.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Private/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJpdmF0ZVxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Private/Views/Home/Privacy.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Private/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJpdmF0ZVxWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Private/Views/Shared/Error.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Private/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJpdmF0ZVxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Private/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Private/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJpdmF0ZVxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Private/Views/_ViewImports.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Private/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJpdmF0ZVxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Private/Views/_ViewStart.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Private/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJpdmF0ZVxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Views/Home/Index.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Views/Home/Privacy.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Views/Shared/Error.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Views/_ViewImports.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Views/_ViewStart.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Admin/Views/Shared/_Layout.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Admin/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-rsih4rzedq
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Areas/Private/Views/Shared/_Layout.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Areas/Private/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJpdmF0ZVxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-and656gv91
 
-[C:/Users/Windwos 11/Desktop/BioProj/App/Views/Shared/_Layout.cshtml]
+[C:/Users/Tahmuresi/Desktop/BioProj/App/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-78367sr58w

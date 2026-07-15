@@ -4182,19 +4182,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Windwos 11\\.nuget\\packages\\": {}
+    "C:\\Users\\Tahmuresi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\Tahmuresi\\Desktop\\BioProj\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\Data\\Data.csproj",
-      "packagesPath": "C:\\Users\\Windwos 11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\Data\\obj\\",
+      "projectPath": "C:\\Users\\Tahmuresi\\Desktop\\BioProj\\Data\\Data.csproj",
+      "packagesPath": "C:\\Users\\Tahmuresi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tahmuresi\\Desktop\\BioProj\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Windwos 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Tahmuresi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -4264,7 +4264,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

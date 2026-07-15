@@ -68,10 +68,6 @@ public class AllAboutMeController : Controller
     [HttpPost]
     public IActionResult Update(AllAboutMe_Dto dto)
     {
-        if (!ModelState.IsValid)
-        {
-            return View(dto);
-        }
         var result = allabout.Update(dto);
         if (result == true)
         {

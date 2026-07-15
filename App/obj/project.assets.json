@@ -5081,19 +5081,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Windwos 11\\.nuget\\packages\\": {}
+    "C:\\Users\\Tahmuresi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\App.csproj",
+      "projectUniqueName": "C:\\Users\\Tahmuresi\\Desktop\\BioProj\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\App.csproj",
-      "packagesPath": "C:\\Users\\Windwos 11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\obj\\",
+      "projectPath": "C:\\Users\\Tahmuresi\\Desktop\\BioProj\\App\\App.csproj",
+      "packagesPath": "C:\\Users\\Tahmuresi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tahmuresi\\Desktop\\BioProj\\App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Windwos 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Tahmuresi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -5105,11 +5105,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Windwos 11\\Desktop\\BioProj\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\Core\\Core.csproj"
+            "C:\\Users\\Tahmuresi\\Desktop\\BioProj\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Tahmuresi\\Desktop\\BioProj\\Core\\Core.csproj"
             },
-            "C:\\Users\\Windwos 11\\Desktop\\BioProj\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\Data\\Data.csproj"
+            "C:\\Users\\Tahmuresi\\Desktop\\BioProj\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\Tahmuresi\\Desktop\\BioProj\\Data\\Data.csproj"
             }
           }
         }
@@ -5157,7 +5157,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

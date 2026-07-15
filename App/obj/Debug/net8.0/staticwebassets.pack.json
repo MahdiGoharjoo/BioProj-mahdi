@@ -9,12 +9,20 @@
       "PackagePath": "staticwebassets\\Admin"
     },
     {
-      "Id": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\wwwroot\\Admin\\AllAboutMe\\3c1fc839-88cb-4814-80a7-6a7dd1620973.webp",
-      "PackagePath": "staticwebassets\\Admin\\AllAboutMe\\3c1fc839-88cb-4814-80a7-6a7dd1620973.webp"
-    },
-    {
       "Id": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\wwwroot\\Admin\\AllAboutMe\\50383f2e-eba1-4b57-9d25-5e9a684d3baa.webp",
       "PackagePath": "staticwebassets\\Admin\\AllAboutMe\\50383f2e-eba1-4b57-9d25-5e9a684d3baa.webp"
+    },
+    {
+      "Id": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\wwwroot\\Admin\\AllAboutMe\\5437aadd-e3c8-4ce7-a4aa-19134e4ff8d6.webp",
+      "PackagePath": "staticwebassets\\Admin\\AllAboutMe\\5437aadd-e3c8-4ce7-a4aa-19134e4ff8d6.webp"
+    },
+    {
+      "Id": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\wwwroot\\Admin\\AllAboutMe\\cd41f361-def9-469f-82e2-01caef0c1054.webp",
+      "PackagePath": "staticwebassets\\Admin\\AllAboutMe\\cd41f361-def9-469f-82e2-01caef0c1054.webp"
+    },
+    {
+      "Id": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\wwwroot\\Admin\\Avatare\\InShot_20260708_131105364.jpg",
+      "PackagePath": "staticwebassets\\Admin\\Avatare\\InShot_20260708_131105364.jpg"
     },
     {
       "Id": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\wwwroot\\Admin\\Comments\\13278330-fe66-4c86-a49a-fc4bb53ad7a6.webp",
@@ -29,8 +37,20 @@
       "PackagePath": "staticwebassets\\Admin\\First\\eda947bb-a3f0-48fd-8dc9-5c71d29b4715.webp"
     },
     {
-      "Id": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\wwwroot\\Admin\\Serrvices\\adf4ca75-ce51-4656-ad6e-f082470bb684.webp",
-      "PackagePath": "staticwebassets\\Admin\\Serrvices\\adf4ca75-ce51-4656-ad6e-f082470bb684.webp"
+      "Id": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\wwwroot\\Admin\\Serrvices\\20e768d7-f1d6-42a1-91c3-d1cd1e80b5b0.webp",
+      "PackagePath": "staticwebassets\\Admin\\Serrvices\\20e768d7-f1d6-42a1-91c3-d1cd1e80b5b0.webp"
+    },
+    {
+      "Id": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\wwwroot\\Admin\\Serrvices\\45eb16c8-7363-4b5a-a847-1f635336bc3e.webp",
+      "PackagePath": "staticwebassets\\Admin\\Serrvices\\45eb16c8-7363-4b5a-a847-1f635336bc3e.webp"
+    },
+    {
+      "Id": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\wwwroot\\Admin\\Serrvices\\d2b14bcf-94bb-4362-b718-9e254942a2f5.webp",
+      "PackagePath": "staticwebassets\\Admin\\Serrvices\\d2b14bcf-94bb-4362-b718-9e254942a2f5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\wwwroot\\Admin\\Serrvices\\e4431a9e-d4da-4410-93b9-cbf6b003414f.webp",
+      "PackagePath": "staticwebassets\\Admin\\Serrvices\\e4431a9e-d4da-4410-93b9-cbf6b003414f.webp"
     },
     {
       "Id": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\wwwroot\\Admin\\aero\\html\\404.html",
@@ -1753,8 +1773,8 @@
       "PackagePath": "staticwebassets\\Admin\\webcopy-origin.txt"
     },
     {
-      "Id": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\wwwroot\\Admin\\ُBlog\\eea9278b-1801-4fd0-ac82-61f20a4e50a7.webp",
-      "PackagePath": "staticwebassets\\Admin\\ُBlog\\eea9278b-1801-4fd0-ac82-61f20a4e50a7.webp"
+      "Id": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\wwwroot\\Admin\\ُBlog\\1ad1c337-4512-450a-8061-3d4f15997172.webp",
+      "PackagePath": "staticwebassets\\Admin\\ُBlog\\1ad1c337-4512-450a-8061-3d4f15997172.webp"
     },
     {
       "Id": "C:\\Users\\Windwos 11\\Desktop\\BioProj\\App\\wwwroot\\Admin\\ُSerrvices\\517847d1-0d27-4633-b242-bfac047b5b7c.webp",
